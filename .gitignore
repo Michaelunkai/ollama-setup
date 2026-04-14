@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.env
+data/
+*.db
+*.db-wal
+*.db-shm
+dist/
+.vite/
+*.log
+C:\Temp\
+launch.ps1
